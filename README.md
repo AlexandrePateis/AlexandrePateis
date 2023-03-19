@@ -1,7 +1,7 @@
 ### Hi, I'am Alexandre !! 👋
 
 - 🔭I'm currently working as customer support
-- 🌱 I'm currently learning Ruby no Rails and VueJS
+- 🌱 Full stack developer JR
 - 📫 How to reach me: alepateis9090@gmail.com
 - ⚡ Fun fact: I never imagined being a programmer
 
